@@ -23,7 +23,7 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
   - Codage d'un progamme permettant de compresser des données sur des relevés de capteurs de températures, et génère un rapport d'analyse via l'API d'OpenAI
   - Autocomplétion du document ETATS DES RISQUES via différentes API du gouvernement tel que Cadastre, Adresse, Géorisque
 
-- ### Dev Web ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- ### Dev Web ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   - Création d'un site internet pour la gestion administrative d'une école sur l'organisation des cours, des élèves et des professeurs avec Entreprise Java Beans et JavaScript Pages
   - Mon ePortfolio
   - Site internet pour nos camarades de CPGE regroupant divers outils
@@ -51,5 +51,5 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
 
 ## Divers
 
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
