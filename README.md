@@ -4,7 +4,7 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
 
 ## Projets Informatiques
 
-- ### Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=for-the-badge)
+- ### Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=fff&style=for-the-badge) ![OpenJDK Badge](https://img.shields.io/badge/OpenJDK-000?logo=openjdk&logoColor=fff&style=for-the-badge)
   - Outil d'analyse et traduction de programmes JAVA vers des instructions TAM
   - Réalisation d'une version simplifié de "Paint" avec SWING
   - Construction d'un Méta-méta-model de tableur avec calculs automatisés 
