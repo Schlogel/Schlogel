@@ -22,6 +22,9 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
 - ### C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
   - Codage d'un progamme permettant de compresser des données sur des relevés de capteurs de températures, et génère un rapport d'analyse via l'API d'OpenAI
   - Autocomplétion du document ETATS DES RISQUES via différentes API du gouvernement tel que Cadastre, Adresse, Géorisque
+ 
+- ### Ada ![Ada Badge](https://img.shields.io/badge/Ada-000?logo=ada&logoColor=fff&style=for-the-badge)
+  - Projet sur la création et manipulation de listes chainées et tableaux de hachages
 
 - ### Dev Web ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   - Création d'un site internet pour la gestion administrative d'une école sur l'organisation des cours, des élèves et des professeurs avec Entreprise Java Beans et JavaScript Pages
@@ -30,20 +33,11 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
   - Site internet référençant des capteurs de températures et générant des rapports d'analyses via l'API d'OpenAI
 
 - ### Télécommunications ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  - Suite de projets sur l'implémentation de chaine de transmission de signaux, comprenant de l'analyse, du codage, décodage via des transformée de fourrier
+  - Suite de projets sur l'implémentation de chaine de transmission de signaux, comprenant de l'analyse, du codage, décodage via l'utilisation de transformée de fourrier
 
 - ### OCaml ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
   - Création du jeu "Casse brique" avec interface graphique
 
-       ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-## Frameworks
-
-
-
-## Editeurs
-
- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ## Audio Visuel
 
@@ -51,5 +45,4 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
 
 ## Divers
 
- ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
