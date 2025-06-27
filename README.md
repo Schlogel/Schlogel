@@ -1,4 +1,8 @@
-## Hi there 👋
+# Moi, c'est Benjamin SCHLÖGEL
+Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunications) basée à Toulouse. J'utilise GitHub principalement pour mes projets en lien avec mon école, mais aussi pour quelques projets personnels en collaboration avec des amis.
+
+## Langages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)] [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)]
 
 <!--
 **Schlogel/Schlogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
