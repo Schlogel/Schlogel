@@ -2,7 +2,7 @@
 Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunications) basée à Toulouse. J'utilise GitHub principalement pour mes projets en lien avec mon école, mais aussi pour quelques projets personnels en collaboration avec des amis.
 
 ## Langages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)] [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)]
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) [C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
 <!--
 **Schlogel/Schlogel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
