@@ -1,6 +1,6 @@
 # Moi, c'est Benjamin SCHLÖGEL
 
-Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunications) basée à Toulouse. J'utilise GitHub principalement pour mes projets en lien avec mon école, mais aussi pour quelques projets personnels en collaboration avec des amis.
+Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunications) basée à Toulouse. Je suis en filière des sciences du numériques, en développement de logiciel. J'utilise GitHub principalement pour mes projets en lien avec mon école, mais aussi pour quelques projets personnels en collaboration avec des amis.
 
 ## Projets Informatiques
 
