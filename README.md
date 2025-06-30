@@ -33,10 +33,10 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
 
 - ### Dev Web
   ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  - Création d'un site internet pour la gestion administrative d'une école sur l'organisation des cours, des élèves et des professeurs avec Entreprise Java Beans et JavaScript Pages
+  - Création d'un site internet MVC pour la gestion administrative d'une école sur l'organisation des cours, des élèves et des professeurs avec Entreprise Java Beans et JavaScript Pages
   - Mon ePortfolio
   - Site internet pour nos camarades de CPGE regroupant divers outils
-  - Site internet référençant des capteurs de températures et générant des rapports d'analyses via l'API d'OpenAI
+  - Site internet MVC référençant des capteurs de températures et générant des rapports d'analyses via l'API d'OpenAI
 
 - ### Télécommunications
   ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -48,9 +48,10 @@ Je suis étudiant ingénieur à l'ENSEEIHT (Ecole Nationale Supérieur d'Électr
   - Interpreteur et traducteur de programme JAVA en instructions TAM
 
 
-## Audio Visuel
+## Audio / Visuel
 
  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+J'ai eu la possibilté d'apprendre à utiliser une caméra, logiciel de montage, régie pour les captations avec TVn7 qui est l'association étudiante d'audio-visuel de l'ENSEEIHT, dont j'ai été le secrétaire lors du mandat 2023-2024. J'ai développer un certain nombre de compétence, comme la gestion d'une équipe pour une captation avec régie, mais aussi montage avec colorimétrie, ainsi que des effets spéciaux avec After Effects et de la modélisation 3D avec Blender.
 
 ## Divers
 
